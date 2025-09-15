@@ -6,7 +6,7 @@
 
 ```bash
 # Add the tap
-brew tap scttfrdmn/homebrew-qnap-docker
+brew tap scttfrdmn/qnap-docker
 
 # Install qnap-docker
 brew install qnap-docker
