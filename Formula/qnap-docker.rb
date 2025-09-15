@@ -2,7 +2,7 @@ class QnapDocker < Formula
   desc "CLI tool for deploying containers to QNAP Container Station"
   homepage "https://github.com/scttfrdmn/qnap-docker"
   url "https://github.com/scttfrdmn/qnap-docker/archive/v0.2.0.tar.gz"
-  sha256 "843728097011f68277aeba891f1e46622ee48681568ac84d2d14e41108131b53"
+  sha256 "3fcf11a544eee0f7c025d555ea9f7b0db4bfb0d49b1284386f3335007d93aa3c"
   license "MIT"
 
   depends_on "go" => :build
